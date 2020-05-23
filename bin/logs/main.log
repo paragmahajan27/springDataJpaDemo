@@ -12,7 +12,3 @@
 2020-05-16 23:09:59,366 +0530 [restartedMain] INFO  (EmployeeController.java:26) - Initializing H2 Database Employee table
 2020-05-16 23:10:40,384 +0530 [restartedMain] INFO  (EmployeeController.java:26) - Initializing H2 Database Employee table
 2020-05-16 23:10:40,384 +0530 [restartedMain] INFO  (EmployeeController.java:26) - Initializing H2 Database Employee table
-2020-05-23 20:51:11,710 +0530 [restartedMain] INFO  (EmployeeController.java:26) - Initializing H2 Database Employee table
-2020-05-23 20:51:11,710 +0530 [restartedMain] INFO  (EmployeeController.java:26) - Initializing H2 Database Employee table
-2020-05-23 21:00:05,257 +0530 [restartedMain] INFO  (EmployeeController.java:26) - Initializing H2 Database Employee table
-2020-05-23 21:00:05,257 +0530 [restartedMain] INFO  (EmployeeController.java:26) - Initializing H2 Database Employee table

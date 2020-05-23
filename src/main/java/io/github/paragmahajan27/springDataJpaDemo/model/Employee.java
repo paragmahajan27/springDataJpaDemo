@@ -1,4 +1,4 @@
-package io.github.paragmahajan27.model;
+package io.github.paragmahajan27.springDataJpaDemo.model;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

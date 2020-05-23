@@ -1,4 +1,4 @@
-package io.github.paragmahajan27.controller;
+package io.github.paragmahajan27.springDataJpaDemo.controller;
 
 import java.util.List;
 
@@ -10,8 +10,8 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RestController;
 
-import io.github.paragmahajan27.model.Employee;
-import io.github.paragmahajan27.service.EmployeeService;
+import io.github.paragmahajan27.springDataJpaDemo.model.Employee;
+import io.github.paragmahajan27.springDataJpaDemo.service.EmployeeService;
 
 @RestController
 public class EmployeeController {
